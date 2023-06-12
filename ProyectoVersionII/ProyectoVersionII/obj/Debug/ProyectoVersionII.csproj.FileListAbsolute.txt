@@ -1,0 +1,8 @@
+C:\Users\leo6v\OneDrive - Universidad Hispanoamericana\Leonardo Vargas Valverde\III Cuatri Ing Informatica\Estructura de datos\proyecto\ProyectoVersionII\ProyectoVersionII\bin\Debug\ProyectoVersionII.exe.config
+C:\Users\leo6v\OneDrive - Universidad Hispanoamericana\Leonardo Vargas Valverde\III Cuatri Ing Informatica\Estructura de datos\proyecto\ProyectoVersionII\ProyectoVersionII\bin\Debug\ProyectoVersionII.exe
+C:\Users\leo6v\OneDrive - Universidad Hispanoamericana\Leonardo Vargas Valverde\III Cuatri Ing Informatica\Estructura de datos\proyecto\ProyectoVersionII\ProyectoVersionII\bin\Debug\ProyectoVersionII.pdb
+C:\Users\leo6v\OneDrive - Universidad Hispanoamericana\Leonardo Vargas Valverde\III Cuatri Ing Informatica\Estructura de datos\proyecto\ProyectoVersionII\ProyectoVersionII\obj\Debug\ProyectoVersionII.csproj.AssemblyReference.cache
+C:\Users\leo6v\OneDrive - Universidad Hispanoamericana\Leonardo Vargas Valverde\III Cuatri Ing Informatica\Estructura de datos\proyecto\ProyectoVersionII\ProyectoVersionII\obj\Debug\ProyectoVersionII.csproj.SuggestedBindingRedirects.cache
+C:\Users\leo6v\OneDrive - Universidad Hispanoamericana\Leonardo Vargas Valverde\III Cuatri Ing Informatica\Estructura de datos\proyecto\ProyectoVersionII\ProyectoVersionII\obj\Debug\ProyectoVersionII.csproj.CoreCompileInputs.cache
+C:\Users\leo6v\OneDrive - Universidad Hispanoamericana\Leonardo Vargas Valverde\III Cuatri Ing Informatica\Estructura de datos\proyecto\ProyectoVersionII\ProyectoVersionII\obj\Debug\ProyectoVersionII.exe
+C:\Users\leo6v\OneDrive - Universidad Hispanoamericana\Leonardo Vargas Valverde\III Cuatri Ing Informatica\Estructura de datos\proyecto\ProyectoVersionII\ProyectoVersionII\obj\Debug\ProyectoVersionII.pdb
